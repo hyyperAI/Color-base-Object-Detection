@@ -131,6 +131,3 @@ This project implements a classical image processing pipeline to detect multiple
 
 This project is for academic and educational use. Please contact the authors for licensing details if required.
 
----
-
-Let me know if you want this converted into a downloadable file or modified with repository links, screenshots, or badges.
